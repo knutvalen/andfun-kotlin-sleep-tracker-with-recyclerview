@@ -1,4 +1,5 @@
 # RecyclerView - SleepQualityTracker with RecyclerView app
+[![Build Status](https://app.bitrise.io/app/d953d495d0991d2c/status.svg?token=0RNCzXV35U49y80ai7su1A)](https://app.bitrise.io/app/d953d495d0991d2c)
 
 This is the toy app for Lesson 7 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/).
 
